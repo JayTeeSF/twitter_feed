@@ -1,0 +1,7 @@
+{
+   "APIKey" : "<your api key>",
+   "APIKeySecret" : "<your api key secret>",
+   "AppId" : "<your app id>",
+   "AppName" : "<your app name>",
+   "BearerToken" : "<your bearer token>"
+}

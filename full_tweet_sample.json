@@ -1,0 +1,35 @@
+{
+   "data" : {
+      "author_id" : "2180254435",
+      "conversation_id" : "1517981536343056387",
+      "created_at" : "2022-04-23T21:39:35.000Z",
+      "entities" : {
+         "urls" : [
+            {
+               "display_url" : "pic.twitter.com/KD4av4eDG1",
+               "end" : 30,
+               "expanded_url" : "https://twitter.com/meaganchanning/status/1517981536343056387/photo/1",
+               "start" : 7,
+               "url" : "https://t.co/KD4av4eDG1"
+            },
+            {
+               "display_url" : "twitter.com/imani_barbarinâ¦",
+               "end" : 54,
+               "expanded_url" : "https://twitter.com/imani_barbarin/status/1517980684962476033",
+               "start" : 31,
+               "url" : "https://t.co/0fzy8RMt0m"
+            }
+         ]
+      },
+      "geo" : {},
+      "id" : "1517981536343056387",
+      "lang" : "en",
+      "text" : "Do it! https://t.co/KD4av4eDG1 https://t.co/0fzy8RMt0m"
+   },
+   "matching_rules" : [
+      {
+         "id" : "1517981566424653826",
+         "tag" : "covid"
+      }
+   ]
+}
